@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Eunjin%20Choi&fontSize=70&&animation=fadeIn&fontAlign=70)
 
+<h3 align="center">📚 Tech Stack</h3>
+
+<p align="center">
+  
+</p>
+
+
 <!--
 **cej3827/cej3827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
