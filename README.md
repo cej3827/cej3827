@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Eunjin%20Choi&fontSize=70&&animation=fadeIn&fontAlign=70)
 
-<h3 align="center">📚 Tech Stack</h3>
-
+<h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
+  <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></a>&nbsp
@@ -27,6 +27,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>&nbsp
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Intellij_IDEA-%23000000?style=flat-square&logo=intellijidea&logoColor=white" /></a>&nbsp
+
   
 </p>
 
